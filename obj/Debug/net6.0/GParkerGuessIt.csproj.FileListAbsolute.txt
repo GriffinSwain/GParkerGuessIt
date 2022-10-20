@@ -1,0 +1,15 @@
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\bin\Debug\net6.0\GParkerGuessIt.exe
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\bin\Debug\net6.0\GParkerGuessIt.deps.json
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\bin\Debug\net6.0\GParkerGuessIt.runtimeconfig.json
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\bin\Debug\net6.0\GParkerGuessIt.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\bin\Debug\net6.0\GParkerGuessIt.pdb
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.csproj.AssemblyReference.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.AssemblyInfoInputs.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.AssemblyInfo.cs
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.csproj.CoreCompileInputs.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\refint\GParkerGuessIt.dll
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.pdb
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\GParkerGuessIt.genruntimeconfig.cache
+C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerGuessIt\obj\Debug\net6.0\ref\GParkerGuessIt.dll
