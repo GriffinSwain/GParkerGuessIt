@@ -29,10 +29,11 @@ Random rndNum = new Random();
 //{
 //Console.Clear();
 Difficulty(border1, border2);
-Thread.Sleep(200);
+/* Thread.Sleep(200);
 Console.Clear();
 Difficulty(border2, border1);
-Thread.Sleep(200);
+Thread.Sleep(200); */
+
 //}
 while (repeat == 1){
 while (!choice){
@@ -149,10 +150,11 @@ Console.WriteLine("|                Medium mode will generate a number between 1
 Console.WriteLine("|                 Hard mode will generate a number between 1 and 100                                |");
 Console.WriteLine("|    Custom mode will allow you to choose the minimum and maximum that the random number can be     |");
 Console.WriteLine($"{border2}");
-Console.SetCursorPosition(0, Console.CursorTop - 1);
+
+/* Console.SetCursorPosition(0, Console.CursorTop - 1);
 Console.WriteLine($"{border}");
 //Console.SetCursorPosition(0, Console.CursorTop + 1);
 Console.SetCursorPosition(0, Console.CursorTop - 6);
 Console.WriteLine($"{border2}");
-Console.SetCursorPosition(0, Console.CursorTop + 6);
+//Console.SetCursorPosition(0, Console.CursorTop + 6); */
 }
