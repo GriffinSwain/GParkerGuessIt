@@ -3,6 +3,10 @@
 //Mini Challenge 8 Remastered - Guess It
 //This program explains the guessing game, asks the user to choose a difficulty, and then leads them through their attempts to guess the correct number.
 //Peer Reviewed by Madeline Gowan
+//Program runs as intended. I like the border added around the options, it's a nice bit of customization. 
+//There's also a custom option, which I know was an A grade requirement, but I don't think many of us did it, so props to you!
+
+
 
 using System;
 string test;
