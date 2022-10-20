@@ -1,6 +1,8 @@
 ﻿//Griffin Parker
 //October 19, 2022
+//Mini Challenge 8 Remastered - Guess It
 //This program explains the guessing game, asks the user to choose a difficulty, and then leads them through their attempts to guess the correct number.
+//Peer Reviewed by Madeline Gowan
 
 using System;
 string test;
